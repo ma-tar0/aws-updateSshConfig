@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = UpdateSshConfig::VERSION
   spec.authors       = ["ma-tar0"]
   spec.email         = ["msa.ota@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{This library is intended to optimize the ssh config file for AWS}
+  spec.summary       = %q{This library is intended to optimize the ssh config file for AWS}
+  spec.homepage      = "https://github.com/ma-tar0/aws-updateSshConfig.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
